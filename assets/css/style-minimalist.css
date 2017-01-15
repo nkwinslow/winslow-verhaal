@@ -1,0 +1,54 @@
+h2::after {
+  background-color: #292929; }
+
+p {
+  color: #white !important; }
+
+.btn-default {
+  color: #292929;
+  background: #fff; }
+
+.top-bar i, .top-bar a {
+  color: #8e8e8e; }
+
+#intro {
+  background-image: url(../images/bg1.jpg); }
+  #intro p, #intro h1 {
+    color: #white; }
+
+.call-to-action1 p,
+#contact p,
+.single-work-intro-content p {
+  color: #ededed !important; }
+
+#nav1 li a:hover {
+  color: #666; }
+
+.nav.portfolio-sorting a.active,
+.nav.portfolio-sorting a.current,
+.nav.portfolio-sorting li a:hover {
+  background: #292929;
+  color: #fff; }
+
+#work,
+#services,
+.services2 {
+  background-color: #fff;
+  border-top: 1px solid #ededed; }
+
+.services2 h3, .services2 h5, .services2 i {
+  color: #292929; }
+
+.diamond {
+  background: url(../images/diamond-dark.png) no-repeat; }
+
+#about {
+  border-top: 1px solid #ededed; }
+
+.box1 {
+  background-color: #fff;
+  -webkit-box-shadow: 0 0 0 1px #ededed;
+  box-shadow: 0 0 0 1px #ededed; }
+
+a.news-read-more {
+  color: #292929; }
