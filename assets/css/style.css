@@ -90,9 +90,9 @@ h5 {
   margin: 0; }
 
 a.logo {
-  color: #fff;
+  color: #8e8e8e;
   font-family: 'Raleway', sans-serif;
-  font-size: 18px;
+  font-size: 28px;
   letter-spacing: 7px;
   text-transform: uppercase; }
   a.logo:hover {
@@ -257,7 +257,7 @@ a.logo {
     margin-bottom: 60px; }
 
 .intro-content {
-  margin-top: -80px;
+  margin-top: -20px;
   position: relative;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -669,7 +669,7 @@ a.news-read-more {
  12. Contact
 **********************************/
 #contact {
-  background-image: url(../images/bg5.jpg);
+  background-image: url(../images/shavings.JPG);
   background-size: cover;
   padding-top: 120px;
   position: relative; }
@@ -741,6 +741,11 @@ footer.footer-pages {
     color: #292929; }
   footer.footer-pages p.copyright {
     color: #666; }
+
+#map {
+  height: 400px;
+  width:100%;
+}
 
 /**********************************
  14. Coming soon

@@ -11,8 +11,8 @@ p {
 .top-bar i, .top-bar a {
   color: #8e8e8e; }
 
-#intro {
-  background-image: url(../images/bg1.jpg); }
+/*#intro {*/
+  /*background-image: url(../images/.jpg); }*/
   #intro p, #intro h1 {
     color: #white; }
 
@@ -33,8 +33,8 @@ p {
 #work,
 #services,
 .services2 {
-  background-color: #fff;
-  border-top: 1px solid #ededed; }
+  background-color: #ededed;
+  border-top: 4px solid #white; }
 
 .services2 h3, .services2 h5, .services2 i {
   color: #292929; }
@@ -52,3 +52,15 @@ p {
 
 a.news-read-more {
   color: #292929; }
+
+/*  Extras  */
+
+.sub-logo-text {
+  color:#8e8e8e;
+  padding-bottom:200px;
+}
+
+.white-text {
+  color:white;
+}
+
